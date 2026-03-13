@@ -1,16 +1,16 @@
 # API-Integration
 
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-NAME: BHAGYASHREE H KAVANTE 
+*NAME*: BHAGYASHREE H KAVANTE 
 
-INTERN ID: CTIS6508
+*INTERN ID*: CTIS6508
 
-DOMAIN: FULLSTACK WEB DEVELOPMENT
+*DOMAIN*: FULLSTACK WEB DEVELOPMENT
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 # A responsive web application developed to integrate a public API and dynamically display the retrieved data. This application performs real-time API calls, processes the response, and updates the user interface dynamically. This task demonstrates practical implementation of API consumption and dynamic data rendering in a web environment.
 
